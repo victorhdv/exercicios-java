@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Unidade3E6 {
+public class Unidade5E6 {
     public static void main(String[] args) {
         /*
        Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos

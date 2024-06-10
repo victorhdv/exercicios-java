@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Unidade3E2 {
+public class Unidade5E2 {
     public static void main(String[] args) {
         /*
         Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.

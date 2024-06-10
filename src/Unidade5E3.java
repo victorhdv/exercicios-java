@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Unidade3E3 {
+public class Unidade5E3 {
     public static void main(String[] args) {
         /*
         Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos"

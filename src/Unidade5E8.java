@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Unidade3E8 {
+public class Unidade5E8 {
     public static void main(String[] args) {
         /*
         Em um país imaginário denominado Lisarb, a moeda deste país é o Rombus, cujo símbolo é o R$.

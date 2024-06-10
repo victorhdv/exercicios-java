@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Unidade3E5 {
+public class Unidade5E5 {
     public static void main(String[] args) {
         /*
         Com base na tabela abaixo, escreva um programa que leia o código de um item

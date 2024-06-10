@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Unidade2E6 {
+public class Unidade4E6 {
     public static void main(String[] args) {
         /*
        Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C.

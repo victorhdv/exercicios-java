@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Unidade2E4 {
+public class Unidade4E4 {
     public static void main(String[] args) {
         /*
        Fazer um programa que leia o número de um funcionário,

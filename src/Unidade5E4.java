@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Unidade3E4 {
+public class Unidade5E4 {
     public static void main(String[] args) {
         /*
         Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo,

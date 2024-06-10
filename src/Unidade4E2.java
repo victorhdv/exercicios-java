@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Unidade2E2 {
+public class Unidade4E2 {
     public static void main(String[] args) {
         /*
        Faça um programa para ler o valor do raio de um círculo,

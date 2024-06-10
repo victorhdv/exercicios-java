@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Unidade2E3 {
+public class Unidade4E3 {
     public static void main(String[] args) {
         /*
        Fazer um programa para ler quatro valores inteiros A, B, C e D.

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Unidade2E1 {
+public class Unidade4E1 {
     public static void main(String[] args) {
         /*
         Faça um programa para ler dois valores inteiros, e depois mostrar
