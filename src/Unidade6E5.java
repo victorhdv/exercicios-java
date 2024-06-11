@@ -12,15 +12,15 @@ public class Unidade6E5 {
         Locale.setDefault(Locale.US);
         int valor;
 
-        System.out.print("Informe um valor inteiro: ");
+        System.out.print("Informe um valor: ");
         valor = sc.nextInt();
+        var fatorial = valor;
 
-
-        for (int i = 0; i < valor; i++) {
-
+        for (int i = valor-1; i > 0; i--) {
+            fatorial = fatorial * i;
         }
 
-
+        System.out.println(fatorial);
 
         sc.close();
     }
